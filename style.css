@@ -1,0 +1,45 @@
+.title {
+    position: absolute;
+    background-color: pink;
+    text-align: center;
+    vertical-align: middle;
+    font-family: cursive, sans-serif;
+    font-size: 50px;
+    left:  20%;
+}
+
+td {
+    border: 2px solid #333;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: cursive, sans-serif;
+    font-size: 50px;
+    cursor: pointer;
+}
+
+table {
+    border-collapse: collapse;
+    position: relative;
+    left: 20%;
+    margin-left: -155px;
+    top: 150px;
+}
+
+.main-board {
+    position: absolute;
+}
+
+.footer {
+    position: absolute;
+    bottom: 10%;
+    left: 10%;
+    align-content: center;
+}
+
+button {
+    font-size: 60px;
+    margin-left: 50%;
+    margin-top: 50%;
+}
